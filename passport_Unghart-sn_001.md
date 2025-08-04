@@ -43,6 +43,7 @@ Documentum generatum sub **Disciplinaria Custodiae • Sigillavit**
 
 > ⚠️ **Language Notice**: This document is presented in Latin. All internal data is provided in English for biometric and custodial verification.
 
+
 # 🛂 Citizen Passport of Imarchia  
 **Empire of Truth and Silence**
 
@@ -88,4 +89,4 @@ Document generated within **Disciplinaria Custodiae • Sigillavit**
 
 > ⚠️ **Language Notice**: This document is presented in Latin. All internal data is provided in English to support biometric and custodial verification.
 
-ттт
+
