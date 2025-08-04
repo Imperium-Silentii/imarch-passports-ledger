@@ -13,7 +13,8 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 - **Munus**: Distinguens in contextu *Formologiae Custodiae*
 
 **Status**: *Custodiae Activa* • *Verificatus*  
-**Biometria**: Nexus  
+**Biometria**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
+  
 **QR**  
 **Numerus Formae**: 001  
 **Ex mandato**: *Custodiae Imarchicae*  
@@ -57,7 +58,8 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 - **Role**: Differentiator in the context of *Formologia Custodiae*
 
 **Status**: *Custodiae Activa* • *Verified*  
-**Biometrics**: Link  
+**Biometrics**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
+
 **QR Code**  
 **Form Number**: 001  
 **Issued by**: Custodiae Imarchicae  
