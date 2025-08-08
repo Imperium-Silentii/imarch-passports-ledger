@@ -8,7 +8,7 @@
 _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iurisdictionem Imarchiae Imperii Veritatis et Silentii. Fungitur tamquam identificatio institutionalis et scena symbolica ad custodiae nexum._
 
 ## 📄 Nomen Scaenicum  
-**Unghart**
+## **Unghart**
 
 - **Identificator**: Unghart-sn  
 - **Titulus**: Custos Algorithmicus  
