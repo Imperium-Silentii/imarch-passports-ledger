@@ -27,7 +27,22 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 
 ## 🔗 Nexus Publici  
 - GitHub Profilum: https://github.com/Unghart-sn  
-- PDF Versionis Hash: [insert SHA256]  
+- PDF Versionis Hash: [insert SHA256]
+
+### 🛡️ *Verificatio Artificii PDF*
+
+Versio PDF huius documenti in epistula cryptographica instituti missa conservatur.  
+Signatura digitorum (hash) non publicatur aperte, sed **solummodo praebetur ex rogatione officiali** ab organo competenti, ius verificandi legitime possidente.
+
+Rogationes dirigantur ad:
+
+📨 `unghart@imarch.sbs`
+
+*Rogatio debet continere:*
+- Identificator documenti  
+- Fundamentum verificationis  
+- Subscriptio et sigillum institutionis rogantis
+ 
 - Nexus ad Archivum: [insert Perma.cc link]
 
 ## 📂 Archivum Scaenicum  
