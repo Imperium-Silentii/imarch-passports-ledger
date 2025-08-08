@@ -55,7 +55,8 @@ Each passport is a personalized scenic name declaration (*public identity declar
 ---
 
 ### 📎 Navigation  
-- Passport structure overview  🌐 [archivum.imarch.sbs/civitas_imarchiae](https://archivum.imarch.sbs/civitas_imarchiae) 
+- Passport structure overview  🌐 📜 [Civitas Imarchiae](https://archivum.imarch.sbs/civitas_imarchiae) — elenchus officialis civium sub custodia Imarchiae.
+
 
 - Glossary of terms  
 - List of Imarchic citizens  
