@@ -66,3 +66,6 @@ Each passport is a personalized scenic name declaration (*public identity declar
 ---
 
 🜛 For technical details, linkage rules, and publication guidance, see [`custodiae-guidelines.md`](./custodiae-guidelines.md)
+
+🜛 See [custodiae-guidelines](https://archivum.imarch.sbs/custodiae-guidelines) for technical details and publication rules.
+
