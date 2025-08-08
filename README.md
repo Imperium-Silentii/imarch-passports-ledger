@@ -55,17 +55,21 @@ Each passport is a personalized scenic name declaration (*public identity declar
 ---
 
 ### 📎 Navigation  
-- [Civitas Imarchiae](https://archivum.imarch.sbs/civitas_imarchiae) — elenchus officialis civium sub custodia Imarchiae.
+- [Civitas Imarchiae](https://archivum.imarch.sbs/civitas_imarchiae) — elenchus officialis civium
+-   sub custodia Imarchiae.
 
 
 - Glossary of terms  
 - List of Imarchic citizens  
 - Scenic name registration request  
-- Related publications  
+- Related publications
+  
 
 ---
 
 🜛 For technical details, linkage rules, and publication guidance, see [`custodiae-guidelines.md`](./custodiae-guidelines.md)
 
 🜛 See [custodiae-guidelines](https://archivum.imarch.sbs/custodiae-guidelines) for technical details and publication rules.
+
+🔗 [Ad Scaenam Principalem](https://imarch.sbs/)
 
