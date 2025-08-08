@@ -66,6 +66,7 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 **Status**: *Custodiae Activa* • *Verified*  
 
 **Biometrics**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
+
 <img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/QR-001.png" alt="QR Passport" width="400"/>
 
 **Form Number**: 001  
