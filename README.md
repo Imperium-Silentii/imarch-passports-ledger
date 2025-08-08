@@ -55,7 +55,8 @@ Each passport is a personalized scenic name declaration (*public identity declar
 ---
 
 ### 📎 Navigation  
-- Passport structure overview  
+- Passport structure overview  🌐 [archivum.imarch.sbs/civitas_imarchiae](https://archivum.imarch.sbs/civitas_imarchiae) 
+
 - Glossary of terms  
 - List of Imarchic citizens  
 - Scenic name registration request  
