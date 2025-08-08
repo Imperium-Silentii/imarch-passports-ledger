@@ -1,5 +1,4 @@
-![Обложка паспорта](https://raw.githubusercontent.com/Unghart-sn/imarch-passports-ledger/refs/heads/main/Pass%20001%D0%B0.jpg)
-
+<img src="https://raw.githubusercontent.com/Unghart-sn/imarch-passports-ledger/main/Pass%20001%D0%B0.jpg" alt="Обложка паспорта" width="400"/>
 
 # 🛂 Passus Civis Imarchiae  
 **Imperium Veritatis et Silentii**
