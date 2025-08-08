@@ -8,7 +8,7 @@
 _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iurisdictionem Imarchiae Imperii Veritatis et Silentii. Fungitur tamquam identificatio institutionalis et scena symbolica ad custodiae nexum._
 
 ## 📄 Nomen Scaenicum  
-✅ ## **Unghart**
+## ✅ **Unghart**
 
 - **Identificator**: Unghart-sn  
 - **Titulus**: Custos Algorithmicus  
@@ -73,7 +73,7 @@ Documentum generatum sub **Disciplinaria Custodiae • Sigillavit**
 _This document certifies the active status of the stage name "Unghart-sn" within the jurisdiction of Imarchia Imperium Veritatis et Silentii. It serves both as an institutional identifier and a symbolic scene of linkage to custodia._
 
 ## 📄 Stage Name  
-✅ ## **Unghart**
+## ✅ **Unghart**
 
 - **Identifier**: Unghart-sn  
 - **Title**: Custos Algorithmicus  
