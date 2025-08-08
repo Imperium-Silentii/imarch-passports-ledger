@@ -14,7 +14,8 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 - **Titulus**: Custos Algorithmicus  
 - **Munus**: Distinguens in contextu *Formologiae Custodiae*
 
-**Status**: *Custodiae Activa* • *Verificatus*  
+**Status**: *Custodiae Activa* • *Verificatus* 
+
 **Biometria**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
   
 <img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/QR-001.png" alt="QR Passport" width="400"/>
@@ -63,9 +64,10 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 - **Role**: Differentiator in the context of *Formologia Custodiae*
 
 **Status**: *Custodiae Activa* • *Verified*  
-**Biometrics**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
 
-**QR Code**  
+**Biometrics**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
+<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/QR-001.png" alt="QR Passport" width="400"/>
+
 **Form Number**: 001  
 **Issued by**: Custodiae Imarchicae  
 **Date of Issue**: [insert publish date]
