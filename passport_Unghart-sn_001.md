@@ -18,7 +18,7 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 
 **Biometria**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
   
-<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/qr-code_001.png" alt="QR Passport" width="400"/>
+<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/qr-code_001.png" alt="QR Passport" width="150"/>
 
 
 **Numerus Formae**: 001  
@@ -83,7 +83,7 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 
 **Biometrics**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
 
-<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/qr-code_001.png" alt="QR Passport" width="400"/>
+<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/qr-code_001.png" alt="QR Passport" width="150"/>
 
 
 **Form Number**: 001  
