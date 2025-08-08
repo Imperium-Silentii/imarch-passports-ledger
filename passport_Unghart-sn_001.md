@@ -24,7 +24,7 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 **Numerus Formae**: 001  
 **Ex mandato**: *Custodiae Imarchicae*  
 **Data Emissionis**: [insert publish date]
-
+<div style="margin-top:30px;"></div>
 ## 🔗 Nexus Publici  
 - GitHub Profilum: https://github.com/Unghart-sn  
 - PDF Versionis Hash: [insert SHA256]
@@ -89,7 +89,7 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 **Form Number**: 001  
 **Issued by**: Custodiae Imarchicae  
 **Date of Issue**: [insert publish date]
-
+<div style="margin-top:30px;"></div>
 ## 🔗 Public Linkages  
 - GitHub Profile: https://github.com/Unghart-sn  
 - PDF Version Hash: [insert SHA256]
