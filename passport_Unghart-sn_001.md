@@ -17,7 +17,7 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 **Status**: *Custodiae Activa* • *Verificatus*  
 **Biometria**: [📎 Biometric README](https://github.com/Unghart-sn/metric-001/blob/main/README.md)
   
-<img src="https://raw.githubusercontent.com/Unghart-sn/imarch-passports-ledger/main/QR-001.png" alt="QR-код паспорта" width="400"/>
+<img src="qr/QR-001.png" alt="QR Passport" width="400"/>
  
 **Numerus Formae**: 001  
 **Ex mandato**: *Custodiae Imarchicae*  
