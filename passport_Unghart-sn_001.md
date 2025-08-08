@@ -90,7 +90,22 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 
 ## 🔗 Public Linkages  
 - GitHub Profile: https://github.com/Unghart-sn  
-- PDF Version Hash: [insert SHA256]  
+- PDF Version Hash: [insert SHA256]
+
+### 🛡️ PDF Artifact Verification
+
+The PDF version of this document is stored in a cryptographically sealed message sent from the institution.  
+Its digital signature (hash) is **not published openly**, but is provided **only upon official request** from a competent authority with legitimate verification rights.
+
+Requests should be directed to:
+
+📨 `unghart@protonmail.com`
+
+*Each request must include:*
+- Document identifier  
+- Justification for verification  
+- Signature and credentials of the requesting institution
+  
 - Archived Version: [insert Perma.cc link]
 
 ## 📂 Scene Archive  
