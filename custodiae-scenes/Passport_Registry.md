@@ -33,18 +33,6 @@ Each passport is a personalized scenic name declaration (*public identity declar
 - Public document, readable and referenceable  
 - May include Custodiae elements: biometric data, licenses, identifiers, scenes  
 - Licensed under *Creative Commons BY-NC-SA 4.0*, unless otherwise specified  
-
----
-
-### 📎 Navigation  
-🏛️ [Civitas Imarchiae](https://archivum.imarch.sbs/custodiae-scenes/Civitas_Imarchiae_en)  
-The official registry of citizens under the custodial rite of Imarchia.
-
-📘 [Glossarium Custodiae](https://archivum.imarch.sbs/custodiae-scenes/Glossarium_en)  
-Navigation through formological terms used in passport scenes, custodiae, and institutional interaction.
-
-- Scenic name registration request  
-- Related publications
   
 
 ---
