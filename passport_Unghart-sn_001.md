@@ -143,9 +143,7 @@ Document generated within **Disciplinaria Custodiae • Sigillavit**
 ## 🛡️ Issuing Authority
 
 This passport is issued by the  
-**Institutum Formologicum**, under the authority of the **Custodia Imarchica**  
-and published via the **Archivum Imarchicum**  
-as part of the civilizational onboarding protocol.
+**Institutum Formologicum**, under the authority of the **Custodia Imarchica** and published via the **Archivum Imarchicum** as part of the civilizational onboarding protocol.
 
 Licensed under [CC BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
