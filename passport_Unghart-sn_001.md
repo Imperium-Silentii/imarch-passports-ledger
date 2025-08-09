@@ -139,5 +139,15 @@ Some linkages and archive materials may carry different publication or licensing
 Document generated within **Disciplinaria Custodiae • Sigillavit**
 
 > ⚠️ **Language Notice**: This document is presented in Latin. All internal data is provided in English to support biometric and custodial verification.
+>
+> ## 🛡️ Issuing Authority
+
+This passport is issued by the  
+**Institutum Formologicum**, under the authority of the **Custodia Imarchica**  
+and published via the **Archivum Imarchicum**  
+as part of the civilizational onboarding protocol.
+
+Licensed under [CC BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 
