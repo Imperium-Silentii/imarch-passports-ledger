@@ -29,8 +29,9 @@ The official registry of citizens under the custodial rite of Imarchia.
 -   sub custodia Imarchiae.
 
 
-- Glossary of terms  
-- List of Imarchic citizens  
+📘 [Glossarium Custodiae](https://archivum.imarch.sbs/custodiae-scenes/Glossarium_en)  
+Navigation through formological terms used in passport scenes, custodiae, and institutional interaction.
+
 - Scenic name registration request  
 - Related publications
   
