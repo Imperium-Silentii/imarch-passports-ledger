@@ -73,8 +73,7 @@ Each passport is a personalized scenic name declaration (*public identity declar
 
 🜛 See [custodiae-guidelines](https://archivum.imarch.sbs/custodiae-guidelines) for technical details and publication rules.
 
-🔗 [Transire ad versionem Anglicam](https://archivum.imarch.sbs/custodiae-scenes/passport_registry)
-
+🔗 <a href="https://archivum.imarch.sbs/custodiae-scenes/Passport_Registry" style="padding:6px 12px; background:#0057b7; color:white; border-radius:4px; text-decoration:none;">Versio Anglica</a>
 
 
 🔗 [Ad Scaenam Principalem](https://imarch.sbs/)
