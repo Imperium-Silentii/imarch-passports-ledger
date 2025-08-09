@@ -18,5 +18,6 @@ used in the passport scene, custodiae system, and institutional interaction._
 
 _Extendable module. To expand scenes and titles, use **formae.md**._
 
-📘 [Glossarium Anglicum](https://archivum.imarch.sbs/glossarium_en)  
-_A glossary of formological terms used in the passport scene and custodiae system._
+📘 [Glossarium Custodiae](https://archivum.imarch.sbs/custodiae-scenes/Glossarium)  
+_A Latin-language glossary of formological terms used in the custodiae passport system._
+
