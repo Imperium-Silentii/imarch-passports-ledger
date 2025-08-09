@@ -1,6 +1,4 @@
-<img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logo_reestr2.png?raw=true" alt="Civitas Imarchiae" width="400"/>
-
-
+<img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logp_reestr3.png?raw=true" alt="Logp_reestr3" width="400">
 
 # 🧾 Civitas Imarchiae  
 _Elenchus officialis civium recognitorum sub custodia-ritu Imarchiae._
