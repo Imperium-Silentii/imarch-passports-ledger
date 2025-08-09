@@ -140,7 +140,7 @@ Document generated within **Disciplinaria Custodiae • Sigillavit**
 
 > ⚠️ **Language Notice**: This document is presented in Latin. All internal data is provided in English to support biometric and custodial verification.
 
-##🛡️ Issuing Authority
+## 🛡️ Issuing Authority
 
 This passport is issued by the  
 **Institutum Formologicum**, under the authority of the **Custodia Imarchica**  
