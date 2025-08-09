@@ -1,4 +1,5 @@
-<img src="passport-images/Logo_reestr2.png" alt="Registrum Scaenicum Imperii" width="400"/>
+<img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logo_reestr2.png?raw=true" alt="Logo_reestr2" width="400">
+
 
 ## Archivum Custodiae
 
