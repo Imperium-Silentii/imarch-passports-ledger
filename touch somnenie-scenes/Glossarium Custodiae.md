@@ -1,3 +1,6 @@
+<img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logo_reestr3.png?raw=true" alt="Civitas Imarchiae" width="400"/>
+
+
 # Glossarium Custodiae
 
 Этот глоссарий служит навигацией по формологическим терминам,  
