@@ -1,5 +1,4 @@
-![Glossarium Custodiae](https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/custodiae-scenes/Logo_Glossarium_custodiae.png)
-
+![Glossarium Custodiae](https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/Logo_Glossarium_custodiae.png)
 
 # Glossarium Custodiae
 
