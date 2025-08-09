@@ -16,5 +16,8 @@ qui in scaena diplomatica, custodiae systemate, et interactione institutionali a
 
 _Modulus ampliandus. Ad scaenas et titulos extendendos, utere **formae.md**._
 
+📘 [Glossarium Custodiae](https://archivum.imarch.sbs/glossarium_en)  
+_A glossary of formological terms used in the passport scene and custodiae system._
+
 
 
