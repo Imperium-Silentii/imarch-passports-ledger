@@ -23,10 +23,8 @@ Each passport is a personalized scenic name declaration (*public identity declar
 ---
 
 ### 📎 Navigation  
-🏛️ Civitas Imarchiae  
+🏛️ [Civitas Imarchiae](https://archivum.imarch.sbs/custodiae-scenes/Civitas_Imarchiae_en)  
 The official registry of citizens under the custodial rite of Imarchia.
-
-🔗 [Access English Version](https://archivum.imarch.sbs/custodiae-scenes/Civitas_Imarchiae_en)
 
 -   sub custodia Imarchiae.
 
