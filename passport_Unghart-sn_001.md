@@ -48,7 +48,7 @@ Rogationes dirigantur ad:
 - Fundamentum verificationis  
 - Subscriptio et sigillum institutionis rogantis
  
-- Nexus ad Archivum: [insert Perma.cc link]
+- Nexus ad Archivum:  [https://perma.cc/K3SV-688W](https://perma.cc/K3SV-688W)
 
 ## 📂 Archivum Scaenicum  
 Omnes data scaenica — publicationes, pacta, contractus et alia documenta — praebentur in uno archivo:  
@@ -119,7 +119,7 @@ Requests should be directed to:
 - Justification for verification  
 - Signature and credentials of the requesting institution
   
-- Archived Version: [insert Perma.cc link]
+- Archived Version:  [https://perma.cc/K3SV-688W](https://perma.cc/K3SV-688W)
 
 ## 📂 Scene Archive  
 The full set of stage-related data—including publications, agreements, contracts, and other materials—is available in one archive file:  
