@@ -1,7 +1,6 @@
-# Glossarium Custodiae
-
 <img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/Logo_Glossarium_custodiae.png" width="400">
 
+# Glossarium Custodiae
 _Hic glossarium navigationem praebet per terminos formologicos,  
 qui in scaena diplomatica, custodiae systemate, et interactione institutionali adhibentur._
 
