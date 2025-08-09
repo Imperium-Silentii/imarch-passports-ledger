@@ -1,3 +1,4 @@
+<img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logp_reestr3.png?raw=true" alt="Logp_reestr3" width="400">
 # 🧾 Civitas Imarchiae  
 _Official ledger of recognized citizens under the custodial rite of Imarchia._
 
