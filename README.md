@@ -73,8 +73,7 @@ Each passport is a personalized scenic name declaration (*public identity declar
 
 🜛 See [custodiae-guidelines](https://archivum.imarch.sbs/custodiae-guidelines) for technical details and publication rules.
 
-🔗 [Transire ad versionem Anglicam](https://archivum.imarch.sbs/passport_registry)
-
+🔗 [Transire ad versionem Anglicam](https://archivum.imarch.sbs/custodiae-scenes/passport_registry)
 
 
 
