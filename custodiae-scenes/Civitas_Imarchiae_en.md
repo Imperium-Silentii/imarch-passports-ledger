@@ -34,3 +34,6 @@ _Official ledger of recognized citizens under the custodial rite of Imarchia._
 ## 🔄 Scene Renewal
 
 > _“Citizen addition is completed through custodial verification and the rite of commit.”_
+>
+> 🔗 [Versio Latina](https://archivum.imarch.sbs/civitas_imarchiae)
+
