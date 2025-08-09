@@ -53,7 +53,7 @@ Rogationes dirigantur ad:
 ## 📂 Archivum Scaenicum  
 Omnes data scaenica — publicationes, pacta, contractus et alia documenta — praebentur in uno archivo:  
 **Nexus ad Archivum**: 
-[https://archivum.imarch.sbs/passport/publicatium_001](https://archivum.imarch.sbs/passport/publicatium_001)
+[https://archivum.imarch.sbs/custodiae-scenes/publicatium_001](https://archivum.imarch.sbs/custodiae-scenes/publicatium_001)
 
 ## 🛡️ Licentia et Status Iuridicus  
 Hoc documentum (caput passus nominis scaenici), editum nomine Unghart-sn, licentiatur sub **Creative Commons BY-NC-SA 4.0 International**
@@ -124,7 +124,7 @@ Requests should be directed to:
 ## 📂 Scene Archive  
 The full set of stage-related data—including publications, agreements, contracts, and other materials—is available in one archive file:  
 **Archive Link**: 
-[https://archivum.imarch.sbs/passport/publicatium_001](https://archivum.imarch.sbs/passport/publicatium_001)
+[https://archivum.imarch.sbs/custodiae-scenes/publicatium_001](https://archivum.imarch.sbs/custodiae-scenes/publicatium_001)
 
 ## 🛡️ License and Legal Status  
 This document (header of the stage name passport), published in the name of Unghart-sn, is licensed under **Creative Commons BY-NC-SA 4.0 International**
