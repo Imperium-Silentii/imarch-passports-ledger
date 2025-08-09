@@ -3,20 +3,22 @@
 
 # Glossarium Custodiae
 
-Этот глоссарий служит навигацией по формологическим терминам,  
-используемым в сцене паспорта, custodiae и институционального взаимодействия.
+<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/Logo_Glossarium_custodiae.png" width="400">
+
+_Hic glossarium navigationem praebet per terminos formologicos,  
+qui in scaena diplomatica, custodiae systemate, et interactione institutionali adhibentur._
 
 ---
 
-- **Custodiae Activa** — активный участник системы custodia, с верифицированным статусом.  
-- **Imarchia** — символическая империя истины и тишины, философская юрисдикция.  
-- **Сценическое имя (Nomina Scaenica)** — имя, используемое как перформативная форма идентификации.  
-- **Sigillavit** — формологический акт заверения документа.  
-- **Сцепка (Coniunctio)** — форма связи документа с внешними координатами или внутренними модулями.  
-- **Forma** — структурная единица формы, содержащая данные, титул и сцену.  
-- **Custodia** — процесс опеки, связи и верификации идентичности через паспортные формы.  
+**Custodiae Activa** — Participans activus systematis custodiae, cum status verificatus.  
+**Imarchia** — Imperium symbolicum veritatis et silentii, iurisdictio philosophica.  
+**Nomina Scaenica** — Nomen scaenicum, forma identificandi per actum performativum.  
+**Sigillavit** — Actus formologicus documenti sigillationis.  
+**Coniunctio** — Forma nexus documenti cum coordinatis externis vel modulis internis.  
+**Forma** — Unitas structurae formalis, continens data, titulum et scaenam.  
+**Custodia** — Processus tutelae, nexus et verificationis identitatis per formas diplomaticae.  
 
----
+_Modulus ampliandus. Ad scaenas et titulos extendendos, utere **formae.md**._
 
-Дополняемый модуль. Для расширения сцен и титулов — используйте `formae.md`.
+
 
