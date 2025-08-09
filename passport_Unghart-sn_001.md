@@ -27,7 +27,11 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 
 ## 🔗 Nexus Publici  
 - GitHub Profilum: https://github.com/Unghart-sn  
-- PDF Versionis Hash: [insert SHA256]
+- PDF Versionis Hash:
+- **Documentum:** passport_registry_2025-08-09.pdf  
+**Dies Fixationis:** 2025-08-09  
+**Impressio SHA256:** 65447a48e62551dac6805f98bbed3d1b52ef55595dc29de29b02f7d0736b2466
+
 
 ### 🛡️ *Verificatio Artificii PDF*
 
@@ -92,7 +96,12 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 
 ## 🔗 Public Linkages  
 - GitHub Profile: https://github.com/Unghart-sn  
-- PDF Version Hash: [insert SHA256]
+- PDF Version Hash:
+
+**Document:** passport_registry_2025-08-09.pdf  
+**Date of Fixation:** 2025-08-09  
+**SHA256 Fingerprint:** 65447a48e62551dac6805f98bbed3d1b52ef55595dc29de29b02f7d0736b2466
+
 
 ### 🛡️ PDF Artifact Verification
 
