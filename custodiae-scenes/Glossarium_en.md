@@ -17,3 +17,6 @@ used in the passport scene, custodiae system, and institutional interaction._
 **Custodia** — A process of guardianship, linkage, and identity verification through passport forms.  
 
 _Extendable module. To expand scenes and titles, use **formae.md**._
+
+📂 [Original Scene on GitHub](https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/custodiae-scenes/Glossarium_en.md)  
+_The original English-language glossary of formological terms used in the custodiae passport system._
