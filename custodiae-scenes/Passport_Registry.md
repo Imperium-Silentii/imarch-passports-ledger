@@ -1,3 +1,6 @@
+<img src="passport-images/Logo_reestr2.png" alt="Registrum Scaenicum Imperii" width="400"/>
+
+## Archivum Custodiae
 
 ## 🛂 Passport Registry · Citizens of Imarchicae  
 **Imperium Veritatis et Silentii**  
