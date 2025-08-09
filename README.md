@@ -73,7 +73,8 @@ Each passport is a personalized scenic name declaration (*public identity declar
 
 🜛 See [custodiae-guidelines](https://archivum.imarch.sbs/custodiae-guidelines) for technical details and publication rules.
 
-For full traceability and verification, consult the [Custodial Passport Registry](https://archivum.imarch.sbs/passport_registry), maintained under institutional law.
+<a href="https://archivum.imarch.sbs/passport_registry" style="display:inline-block;padding:8px 16px;background-color:#2e3a59;color:#fff;text-decoration:none;border-radius:4px;">Custodial Passport Registry</a>
+
 
 
 🔗 [Ad Scaenam Principalem](https://imarch.sbs/)
