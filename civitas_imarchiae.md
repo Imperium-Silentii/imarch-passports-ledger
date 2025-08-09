@@ -1,3 +1,6 @@
+<img src="passport-images/Logo_reestr3.png" alt="Civitas Imarchiae" width="400"/>
+
+
 # 🧾 Civitas Imarchiae  
 _Elenchus officialis civium recognitorum sub custodia-ritu Imarchiae._
 
