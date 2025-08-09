@@ -39,7 +39,7 @@ Each passport is a personalized scenic name declaration (*public identity declar
 
 🜛 See [custodiae-guidelines](https://archivum.imarch.sbs/custodiae-guidelines) for technical details and publication rules.
 
-<a href="https://archivum.imarch.sbs/" style="padding:6px 12px; background:#ffd700; color:#000; border-radius:4px; text-decoration:none; font-weight:bold;">Versio Latina</a>
+🔗 <a href="https://archivum.imarch.sbs/" style="padding:6px 12px; background:#ffd700; color:#000; border-radius:4px; text-decoration:none; font-weight:bold;">Versio Latina</a>
 
 
 🔗 [Ad Scaenam Principalem](https://imarch.sbs/)
