@@ -1,4 +1,6 @@
-<img src="passport-images/Logo_reestr2.png" alt="Registrum Scaenicum Imperii" width="400"/>
+<img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logo_reestr_0.png?raw=true" alt="Logo_reestr_0" width="400">
+
+
 
 # Archivum Custodiae
 Passport archive of Imarchic citizens. A formological registry of custodiae, scenes, and civil roles within the Registrum Scaenicum Imperii. Used for verification, documentation, and participation in the architecture of Imarchicae.
