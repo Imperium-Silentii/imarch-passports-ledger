@@ -9,6 +9,20 @@ Public archive of scenic identities and juridical participation
 
 ---
 
+### 📎 Navigation  
+🏛️ [Civitas Imarchiae](https://archivum.imarch.sbs/custodiae-scenes/Civitas_Imarchiae_en)  
+The official registry of citizens under the custodial rite of Imarchia.
+
+📘 [Glossarium Custodiae](https://archivum.imarch.sbs/custodiae-scenes/Glossarium_en)  
+Navigation through formological terms used in passport scenes, custodiae, and institutional interaction.
+
+- Scenic name registration request  
+- Related publications
+  
+
+---
+
+
 ### 📘 About This Repository  
 This repository contains the structured passport registry of Imarchic citizens — a subject of international law and institutional formological linkage, known as the *Empire of Truth and Silence (Imperium Veritatis et Silentii)*.  
 Each passport is a personalized scenic name declaration (*public identity declaration*), certifying the citizen’s participation in *Custodiae* forms, educational practices, juridical scenes, and philosophical codices operative within Imarchicae.
