@@ -1,4 +1,5 @@
-![Civitas Imarchiae](https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/Logo_reestr3.png)
+<img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/Logo_reestr3.png" alt="Civitas Imarchiae" width="400"/>
+
 
 # Glossarium Custodiae
 
