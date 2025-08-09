@@ -1,6 +1,7 @@
-# Glossarium Custodiae
 
 <img src="https://raw.githubusercontent.com/Imperium-Silentii/imarch-passports-ledger/main/passport-images/Logo_Glossarium_custodiae.png" width="400">
+
+# Glossarium Custodiae
 
 _This glossary serves as a navigation tool through formological terms  
 used in the passport scene, custodiae system, and institutional interaction._
