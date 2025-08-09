@@ -23,7 +23,7 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 
 **Numerus Formae**: 001  
 **Ex mandato**: *Custodiae Imarchicae*  
-**Data Emissionis**: [insert publish date]
+**Data Emissionis**: 2025-08-09
 
 ## 🔗 Nexus Publici  
 - GitHub Profilum: https://github.com/Unghart-sn  
@@ -52,7 +52,8 @@ Rogationes dirigantur ad:
 
 ## 📂 Archivum Scaenicum  
 Omnes data scaenica — publicationes, pacta, contractus et alia documenta — praebentur in uno archivo:  
-**Nexus ad Archivum**: [insert link]
+**Nexus ad Archivum**: 
+[publicatium_001.md](https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/custodiae-scenes/publicatium_001.md)
 
 ## 🛡️ Licentia et Status Iuridicus  
 Hoc documentum (caput passus nominis scaenici), editum nomine Unghart-sn, licentiatur sub **Creative Commons BY-NC-SA 4.0 International**
@@ -93,7 +94,7 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 
 **Form Number**: 001  
 **Issued by**: Custodiae Imarchicae  
-**Date of Issue**: [insert publish date]
+**Date of Issue**: 2025-08-09
 
 ## 🔗 Public Linkages  
 - GitHub Profile: https://github.com/Unghart-sn  
@@ -122,7 +123,8 @@ Requests should be directed to:
 
 ## 📂 Scene Archive  
 The full set of stage-related data—including publications, agreements, contracts, and other materials—is available in one archive file:  
-**Archive Link**: [insert link]
+**Archive Link**: 
+[publicatium_001.md](https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/custodiae-scenes/publicatium_001.md)
 
 ## 🛡️ License and Legal Status  
 This document (header of the stage name passport), published in the name of Unghart-sn, is licensed under **Creative Commons BY-NC-SA 4.0 International**
