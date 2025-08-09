@@ -35,4 +35,7 @@ _Elenchus officialis civium recognitorum sub custodia-ritu Imarchiae._
 ## 🔄 Renovatio Scaenae
 
 > _“Additio civium perficitur per verificationem custodiae et ritum commit.”_
+>
+> 🔗 [Versio Anglica](https://archivum.imarch.sbs/custodiae-scenes/Civitas_Imarchiae_en)
+
 
