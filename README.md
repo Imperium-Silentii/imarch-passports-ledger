@@ -24,7 +24,9 @@ Unusquisque passportum est declaratio individualis identitatis scaenicae (*publi
 
 ### 📎 Navigatio  
 - [Civitas Imarchiae](https://archivum.imarch.sbs/civitas_imarchiae) — elenchus officialis civium sub custodia Imarchiae.  
-- Glossarium terminorum  
+- Glossarium terminorum  📘 [Glossarium Custodiae](https://archivum.imarch.sbs/custodiae-scenes/Glossarium.md)  
+_Navigation through formological terms used in passport scenes, custodiae, and institutional interaction._
+
 - Index civium Imarchicae  
 - Petitio pro nomine scaenico  
 - Publicationes conexae  
