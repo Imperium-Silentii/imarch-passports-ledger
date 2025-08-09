@@ -26,7 +26,7 @@ _Hic documentum confirmat statum activum nominis scaenici "Unghart-sn" intra iur
 **Data Emissionis**: 2025-08-09
 
 ## 🔗 Nexus Publici  
-- GitHub Profilum: https://github.com/Unghart-sn  
+- GitHub Profilum:  [https://github.com/Unghart-sn](https://github.com/Unghart-sn) 
 - PDF Versionis Hash:
   
 **Documentum:** passport_registry_2025-08-09.pdf  
@@ -97,7 +97,7 @@ _This document certifies the active status of the stage name "Unghart-sn" within
 **Date of Issue**: 2025-08-09
 
 ## 🔗 Public Linkages  
-- GitHub Profile: https://github.com/Unghart-sn  
+- GitHub Profile:  [https://github.com/Unghart-sn](https://github.com/Unghart-sn)
 - PDF Version Hash:
 
 **Document:** passport_registry_2025-08-09.pdf  
