@@ -81,3 +81,30 @@ Custodia — это сценическая маска, закреплённая 
 ---
 
 _Codex Ritualis Technicus рекомендует включение данного протокола в раздел `custodia-ethica.md` с версификацией и архивной фиксацией._
+
+---
+
+<div id="codex-footer" class="institutional-footer">
+
+### ← [Вернуться к Codex Index](https://acta.imarch.sbs/codex_acts/)
+**Codex Imarchiae** · [Главная страница](https://acta.imarch.sbs/) · [О проекте](https://acta.imarch.sbs/about)
+
+---
+
+#### 📤 Поделиться этим документом:
+<div class="share-buttons">
+  <a href="https://twitter.com/share?url=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">X / Twitter</a> ·
+  <a href="https://t.me/share/url?url=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Telegram</a> ·
+  <a href="mailto:?subject=Codex Imarchiae&body=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Email</a>
+</div>
+
+---
+
+#### 🕊️ Пермалинк документа:
+`https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en`
+Хеш-фиксация: `sha256: 3f9a...e7c1`
+
+_Этот блок не входит в хеш-сцену и не изменяет содержание документа._
+
+</div>
+
