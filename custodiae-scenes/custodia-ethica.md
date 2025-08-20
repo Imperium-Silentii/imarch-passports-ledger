@@ -93,10 +93,17 @@ _Codex Ritualis Technicus рекомендует включение данног
 
 #### 📤 Поделиться этим документом:
 <div class="share-buttons">
+  <strong>Поделиться:</strong><br>
+
   <a href="https://twitter.com/share?url=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">X / Twitter</a> ·
   <a href="https://t.me/share/url?url=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Telegram</a> ·
-  <a href="mailto:?subject=Codex Imarchiae&body=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Email</a>
-</div>
+  <a href="mailto:?subject=Codex Imarchiae&body=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Email</a> ·
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">LinkedIn</a> ·
+  <a href="https://api.whatsapp.com/send?text=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">WhatsApp</a> ·
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Facebook</a> ·
+  <a href="https://www.reddit.com/submit?url=https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en" target="_blank">Reddit</a> ·
+ 
+
 
 ---
 
