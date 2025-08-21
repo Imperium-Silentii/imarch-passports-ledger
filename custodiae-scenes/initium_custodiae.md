@@ -73,3 +73,23 @@ _Ритуал входа и сцепки с custodia_
 **Imarchia non est situs — est ritus.**  
 _Имархия — не место, а ритуал._
 
+name: Заявка на сценическое имя
+description: Вход в Imarchia
+body:
+  - type: input
+    id: name_latin
+    attributes:
+      label: Имя (латиницей)
+      placeholder: Unghart-sn
+  - type: input
+    id: name_cyrillic
+    attributes:
+      label: Имя (кириллицей)
+      placeholder: Унгарт-сн
+  - type: textarea
+    id: meaning
+    attributes:
+      label: Смысл имени
+      description: Опиши философскую сцепку
+
+
