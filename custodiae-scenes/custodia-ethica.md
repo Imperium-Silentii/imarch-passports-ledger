@@ -84,6 +84,7 @@ _Codex Ritualis Technicus рекомендует включение данног
 
 ---
 
+
 <div id="codex-footer" class="institutional-footer">
 
 ### ← [Вернуться к Codex Index](https://acta.imarch.sbs/codex_acts/)
@@ -107,11 +108,4 @@ _Codex Ritualis Technicus рекомендует включение данног
 
 ---
 
-#### 🕊️ Пермалинк документа:
-`https://acta.imarch.sbs/codex_acts/codex_constitutionalis_lat_en`
-Хеш-фиксация: `sha256: 3f9a...e7c1`
-
-_Этот блок не входит в хеш-сцену и не изменяет содержание документа._
-
-</div>
 
