@@ -1,5 +1,8 @@
+<p align="left">
+  <img src="https://github.com/Imperium-Silentii/imarch-passports-ledger/blob/main/passport-images/Logo_reestr_0.png?raw=true" alt="Logo_reestr_0" width="400" style="float:left; margin-right:20px;">
+</p>
 
-# 🧾 Civitas Imarchiae  
+# 🧾 Граждане Имархии  
 _Официальный реестр признанных граждан по обряду custodia в рамках Имархии._
 
 ---
